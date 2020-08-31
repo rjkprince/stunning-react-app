@@ -1,0 +1,54 @@
+.NewAcBtn {
+  color: #fff;
+  width: 75px;
+  font-size: 12px;
+  font-weight: 600;
+  background-color: #5243c0;
+  padding: 12px 18px;
+  border-radius: 15px;
+  cursor: pointer;
+}
+.BannerSection {
+  margin-top: 50px;
+  margin-left: 60px;
+  display: flex;
+  justify-content: space-between;
+}
+.BannerLeft {
+  width: 28%;
+}
+.BannerTitle {
+  font-size: 60px;
+  font-weight: 800;
+  position: relative;
+  width: 335px;
+}
+.TitlePeriod {
+  margin: 0;
+  padding: 0;
+  width: 10px;
+  height: 10px;
+  background-color: #5243c0;
+  position: absolute;
+  bottom: 15px;
+  right: 5px;
+}
+.Description {
+  color: rgb(102, 100, 100);
+}
+.BannerRight {
+  width: 65%;
+}
+.BannerImg {
+  width: 100%;
+}
+.BtnCont {
+  display: flex;
+  width: 250px;
+  justify-content: space-between;
+  align-items: center;
+}
+.ArrowUp {
+  width: 40px;
+  height: 40px;
+}
