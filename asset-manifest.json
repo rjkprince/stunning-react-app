@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/stunning-react-app/static/css/main.99ac3556.chunk.css",
+    "main.js": "/stunning-react-app/static/js/main.c6bf00c5.chunk.js",
+    "main.js.map": "/stunning-react-app/static/js/main.c6bf00c5.chunk.js.map",
+    "runtime-main.js": "/stunning-react-app/static/js/runtime-main.035d7486.js",
+    "runtime-main.js.map": "/stunning-react-app/static/js/runtime-main.035d7486.js.map",
+    "static/js/2.f15af276.chunk.js": "/stunning-react-app/static/js/2.f15af276.chunk.js",
+    "static/js/2.f15af276.chunk.js.map": "/stunning-react-app/static/js/2.f15af276.chunk.js.map",
+    "index.html": "/stunning-react-app/index.html",
+    "precache-manifest.ac9721eafb62aaa08bb975acec525353.js": "/stunning-react-app/precache-manifest.ac9721eafb62aaa08bb975acec525353.js",
+    "service-worker.js": "/stunning-react-app/service-worker.js",
+    "static/css/main.99ac3556.chunk.css.map": "/stunning-react-app/static/css/main.99ac3556.chunk.css.map",
+    "static/js/2.f15af276.chunk.js.LICENSE.txt": "/stunning-react-app/static/js/2.f15af276.chunk.js.LICENSE.txt",
+    "static/media/arrow-down.png": "/stunning-react-app/static/media/arrow-down.adfc2ab4.png",
+    "static/media/arrow-up.png": "/stunning-react-app/static/media/arrow-up.881e4ec8.png",
+    "static/media/landing-section-image.png": "/stunning-react-app/static/media/landing-section-image.5044cc0b.png",
+    "static/media/stunning-logo.png": "/stunning-react-app/static/media/stunning-logo.d43e2fd4.png",
+    "static/media/tick-blue.png": "/stunning-react-app/static/media/tick-blue.330ba7b0.png",
+    "static/media/tick-gray.png": "/stunning-react-app/static/media/tick-gray.289635cc.png",
+    "static/media/user-blue.png": "/stunning-react-app/static/media/user-blue.6bf196c5.png",
+    "static/media/user-orange.png": "/stunning-react-app/static/media/user-orange.29fbde9d.png",
+    "static/media/user-pink.png": "/stunning-react-app/static/media/user-pink.9f9b7199.png",
+    "static/media/user-red.png": "/stunning-react-app/static/media/user-red.aeb86ae0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.035d7486.js",
+    "static/js/2.f15af276.chunk.js",
+    "static/css/main.99ac3556.chunk.css",
+    "static/js/main.c6bf00c5.chunk.js"
+  ]
+}
