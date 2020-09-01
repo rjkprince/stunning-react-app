@@ -29,7 +29,7 @@ export default function UsersSection() {
     },
   ];
   return (
-    <div>
+    <div className={classes.UserWrapper}>
       {UsersArr.map((item) => {
         return (
           <div key={item.id} className={classes.User}>

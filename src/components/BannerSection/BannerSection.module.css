@@ -52,3 +52,29 @@
   width: 40px;
   height: 40px;
 }
+@media (max-width: 600px) {
+  .BannerSection {
+    display: block;
+    margin-left: 16px;
+    margin-top: 25px;
+  }
+  .BannerLeft {
+    width: 100%;
+  }
+  .BannerRight {
+    width: 100%;
+  }
+  .BannerTitle {
+    font-size: 40px;
+    width: 200px;
+    margin: 0;
+  }
+  .TitlePeriod {
+    right: -25px;
+    bottom: 10px;
+  }
+  .Description {
+    font-size: 14px;
+    margin: 10px 0;
+  }
+}

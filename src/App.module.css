@@ -1,4 +1,12 @@
 .UsersSection {
+  width: 350px;
   margin-top: -200px;
   margin-left: 50px;
+  box-sizing: border-box;
+}
+@media (max-width: 600px) {
+  .UsersSection {
+    margin: 0;
+    width: 100%;
+  }
 }

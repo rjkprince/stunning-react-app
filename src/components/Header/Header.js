@@ -42,6 +42,11 @@ export default function Header() {
         })}
       </div>
       <p className={classes.AccountBtn}>Your Account</p>
+      <div className={classes.Hamburger}>
+        <div className={classes.Dashes}></div>
+        <div className={classes.Dashes}></div>
+        <div className={classes.Dashes}></div>
+      </div>
     </div>
   );
 }
