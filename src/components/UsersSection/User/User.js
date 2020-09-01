@@ -34,7 +34,7 @@ export default function User({ id, title, isActive, date }) {
       <img
         className={classes.UserImg}
         src={isActive ? blueTick : grayTick}
-        alt='tick-image'
+        alt='tick'
       />
       <p className={classes.UserTitle}>{title}</p>
       <img className={classes.UserImg} src={mUser} alt='user' />
