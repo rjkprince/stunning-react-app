@@ -24,7 +24,7 @@ export default function BannerSection() {
         <img
           className={classes.BannerImg}
           src={BannerImg}
-          alt='landing-section-image'
+          alt='landing-section'
         />
       </div>
     </div>

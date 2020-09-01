@@ -25,6 +25,9 @@ export default function User({ id, title, isActive, date }) {
     case 4:
       mUser = redUser;
       break;
+    default:
+      mUser = redUser;
+      break;
   }
   return (
     <div className={`${classes.UserWrap} ${isActive ? classes.Active : null}`}>
@@ -46,6 +49,8 @@ export default function User({ id, title, isActive, date }) {
             case 3:
               return classes.green;
             case 4:
+              return classes.yellow;
+            default:
               return classes.yellow;
           }
         })()}`}
